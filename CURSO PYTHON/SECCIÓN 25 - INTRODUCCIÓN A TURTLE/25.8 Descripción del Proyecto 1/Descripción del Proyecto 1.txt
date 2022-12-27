@@ -1,0 +1,1 @@
+	Carrera de tortugas. Se crean dos tortugas, una verde y la otra azul, las cuales resultan ser los jugadores. Parten de un estado inicial en la misma coordenada respecto al eje “x” y, a partir de la “tirada” de dados en forma aleatoria, las tortugas van a ir avanzando sobre ese mismo eje hacia un punto final, la cual es la meta. Quien primero llega a la meta, gana. 
