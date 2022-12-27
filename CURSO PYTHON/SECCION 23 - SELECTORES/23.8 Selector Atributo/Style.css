@@ -1,0 +1,10 @@
+[class]{
+    color: red;
+    font-size: 48px;
+    background-color: royalblue;
+}
+
+[class="parrafo"]{
+    color: salmon;
+    font-weight: bold;
+}
