@@ -1,0 +1,27 @@
+14.1 Funciones (Teoría):
+	En el contexto de la programación, una función es una secuencia de sentencias que realizan una operación y que reciben un nombre. Cuando se define una función, se especifica el nombre y la secuencia de sentencias. Más adelante, se puede “llamar” a la función por ese nombre. 
+
+/*********************************************************************************/
+Ejemplo: 
+def Función ():
+	print(“Hola Mundo”)
+
+Función()
+Función()
+
+>>>Hola Mundo
+>>>Hola Mundo
+
+• Parámetro:
+	Son variables que se definen al declarar funciones, las cuales van a ser utilizadas para enviar valores al hacer un llamado a la función
+Ejemplo:
+def Función(mensaje):
+	print(mensaje)
+
+• Argumentos:
+	Son los valores que van a tomar cada uno de los parámetros que se han definido en las funciones. 
+Ejemplo:
+def Funcion(“Hola Mundo”)
+	print(mensaje)
+Funcion(“Hola mundo”)
+>>>Hola Mundo 
