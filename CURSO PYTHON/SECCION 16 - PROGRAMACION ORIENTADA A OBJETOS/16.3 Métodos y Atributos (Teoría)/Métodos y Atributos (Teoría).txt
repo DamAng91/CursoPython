@@ -1,0 +1,21 @@
+Los atributos son las cualidades que dispone un objeto. Así, por ejemplo, un celular cuenta con las siguientes cualidades: SO, marca, si es táctil, etc.; mientras que los métodos son todas las acciones que puede realizar ese celular, por ejemplo, llamar, enviar mensajes, contar con un calendario, calculadora, etc. 
+
+Métodos:
+	Los métodos son funciones, pero que en POO pasan a llamarse métodos, los cuales hacen los objetos. Por ejemplo: Si una clase crea objetos Personas, entonces un método puede ser el hablar, porque las personas hablan. 
+
+Sintaxis:
+class Persona(): #Objeto
+	def Hablar(): #Método
+		print(“Hola”)
+
+Atributos:
+	Los atributos, son características, cualidades o descripciones que los objetos tienen. Aunque, desde un punto de vista de Código, en realidad son datos que pueden tener los objetos. 
+
+Sintaxis:
+class Carro(): #Objeto
+	color #Atributo
+	llantas #Atributo
+	marca #Atributo
+
+ 	En definitiva, los métodos van a las clases y los atributos a los objetos. Los objetos pueden ejecutar métodos y los métodos se pueden ligar a los objetos.
+
