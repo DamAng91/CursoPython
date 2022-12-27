@@ -1,0 +1,44 @@
+13.1 Bucles:
+	Un bucle es algo que se va a repetir a través de una variable iteradora.
+
+Importante!:
+Actualización de variables:
+x = 0
+x +=1
+
+Iteración:
+	Es repetir un conjunto de instrucciones las veces que sea necesario.
+
+Bucles:
+	O loop son estructuras, con un segmento de código, que se repiten tantas veces que se cumpla una condición determinada. 
+ 
+
+Iterador y Break:
+	Un iterador es un contador que poseen los bucles, es importante que tengan uno, de otra forma… el bucle sería infinito.
+	La Break es una forma de detener un bucle al llegar a una condición ya definida.
+
+WHILE:
+Sintaxis:
+while<condición>:
+	<instrucciones de código>
+	<incrementar o decrementar el contador>
+
+Ejemplo - estructura:
+n = 5
+while n>0:
+	print(n)
+	n = n-1
+print(“!Despegue!”)
+
+FOR:
+	Sirve para crear una sóla vez al contedor y darle un nombre. Muchas veces se utiliza para recorrer una lista. 
+Sintaxis:
+for <contador> in <nombre de lista>:
+	<segmento de código>
+
+Ejemplo - estructura:
+lista = [1, 2, 3, 4]
+for i in lista:
+	print(i)
+
+
