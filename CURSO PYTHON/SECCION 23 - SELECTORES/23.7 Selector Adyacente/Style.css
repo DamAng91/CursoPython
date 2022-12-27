@@ -1,0 +1,5 @@
+h2 + h3{ /*El elemento más cercano a h2 le ponemos el siguiente estilo*/
+    color: fuchsia;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
