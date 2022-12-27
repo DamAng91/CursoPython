@@ -1,0 +1,14 @@
+La POO permite hacer desarrollo web, inteligencia artificial, machine learning, etc. Permite desarrollar programas que simule lo más posible a la vida cotidiana. 
+
+Clases:
+	Básicamente, es una entidad que define una serie de elementos que determinan un estado (datos) y un comportamiento (operaciones sobre los datos que modifican su estado). 
+
+Ejemplo: class Galleta():
+		pass
+
+Objetos:
+	En un nivel elemental, un objeto es simplemente un trazo de código más estructurado de datos, más pequeños que un programa completo.
+
+Ejemplo: galleta = Galleta()
+
+Un ejemplo más claro de clase puede ser un molde que se utiliza para darle forma a una galleta; mientras que el objeto es la galleta. 
