@@ -1,0 +1,27 @@
+19.2 Conceptos Importantes (Teoría):
+Etiquetas o Viñetas:
+	Es un fragmento que indica al navegador realizar una función o una tarea en específico. Estas etiquetas determinan la estructura y la funcionalidad que va a tener la página web. 	
+	Una estructura básica podemos ver a continuación:
+
+ 
+
+Atributo:
+	Cualidad que puede agregarse a una etiqueta. Su función es modificar el contenido de la etiqueta o agregar mejor estructura a una página web. 
+	La estructura de un atributo es la siguiente:
+ 
+Nombre de la etiqueta + Atributo + Valor del atributo. 
+
+Estructura de una viñeta:
+
+Etiqueta de Apertura	Contenido	Etiqueta de Cierre
+<p class=”fondo”>	Texto del contenido	<\p>
+
+<p : Nombre
+class=”fondo : Atributo
+
+Contenedores:
+	Son unos recuadros o espacios rectangulares que pueden colocarse en cualquier parte de la página. En ellas, podemos insertar contenido HTML. Su utilidad principal es visual, permitiendo organizar y dar estructura y diseño a las páginas HTML. 
+ 
+
+	Dentro de cada contenedor hay más herramientas disponibles para ser utilizadas. 
+
