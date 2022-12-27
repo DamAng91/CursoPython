@@ -1,0 +1,26 @@
+	Es la quinta versión del Lenguaje de Viñetas. Defino los nuevos estándares de desarrollo web, rediseñando el código para resolver problemas y actualizándolo así a nuevas necesidades. No se limita a crear nuevas herramientas o atributos sino que incorpora nuevas características y, a su vez, proporciona plataformas de desarrollo denominadas APIs para hacer aplicaciones web. 
+
+Nuevas características:
+• Nuevas etiquetas semánticas para estructurar los documentos HTML, destinadas a reemplazar la necesidad de tener una etiqueta que identifica cada bloque de la página. 
+• Los nuevos elementos multimedio como <audio> y <video>.
+• APIs nuevas.
+• Almacenamiento local en el lado del cliente, es decir, no es necesario disponer un servidor web o hosting.
+
+Estructuras:
+<header>
+<nav>
+			<article>
+
+			<section>
+									<aside>
+			<section>
+
+						<footer>
+
+ 
+
+<header>. Algo parecido a la Cabecera. Se almacena lo principal de la página web, es decir, aquello que la distingue de lo demás. 
+<nav>. Algo parecido a la navegación. 
+<article>. Espacio que dispone de secciones o <section> que son contenidos extras que se le puede colocar a la página web.
+<aside>. Algo parecido a un contenido que se encuentra al borde de la página web.
+<footer>. Es el pie de página. Proporciona un espacio de contenido al pie de página. 
