@@ -1,0 +1,21 @@
+Una cadena es una secuencia de caracteres. 
+“	M	o	n	t	y		P	y	t	h	o	n	“
+	[0]	[1]	[2]	[3]	[4]	[5]	[6]	[7]	[8]	[9]	[10]	[11]	
+
+Dentro de las cadenas, cada uno de los caracteres ocupa un espacio, p.ej.: M [0]
+
+Debanado de cadenas:
+	Consiste en mostrar contenido de una cadena de una manera segmentada. 
+
+Ejemplo:
+“	M	o	n	t	y		P	y	t	h	o	n	“
+	[0]	[1]	[2]	[3]	[4]	[5]	[6]	[7]	[8]	[9]	[10]	[11]	
+
+[0:5] = “Monty”
+[ :5] = “Mon”
+[3: ] = “hon” #Lo realizar desde atrás hacia adelante. 
+
+Reglas de las cadenas:
+-	Es importante escribir las cadenas con comillas dobles o con comillas simples.
+-	No confundir un número en comillas, a un número sin comillas.
+-	“4” -> 4 
