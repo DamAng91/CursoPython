@@ -1,0 +1,11 @@
+h1 > a{ /*Todas las etiquetas que sean hijas de h1 van a tener el siguiente estilo*/
+    color: coral;
+    font-size: 48px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: darkgoldenrod;
+}
+
+p > a{
+    color: firebrick;
+    font-size: 72px;
+}
