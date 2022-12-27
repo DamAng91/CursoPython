@@ -1,0 +1,28 @@
+9.	SECCIÓN 9: TERÍA DE ESTRUCTURAS DE DATOS
+
+Existen muchos tipos de estructuras de datos: listas, tuplas, diccionarios, colas,
+arreglos, etc.
+
+
+9.1 Listas, Tuplas y Diccionarios (Teoría):
+
+• Lista: Es un tipo de colección ordenada. Sería equivalente a lo que en otros lenguajes se conoce como arrays o vectores. Es decir, un conjunto de datos que están agrupados. 
+
+Sintaxis de las Listas
+[	‘Pan’,	40,	35.86,	‘Tortilla’,	]
+	[0]	[1]	[2]	[3]	
+
+• Tupla: Es una secuencia de valores similar a una lista. La principal diferencia es que las tuplas son inmutables, es decir, una “lista que no se puede modificar”. 
+
+Sintaxis de las Tuplas
+(	‘Jugar’,	23.78,	“Juan”,	“Tupla”,	)
+	[0]	[1]	[2]	[3]	
+
+NOTA: A veces se suele colocar a la Tupla entre llaves {}. 
+
+• Diccionarios: Son colecciones que relacionan una clave y un valor. Por ejemplo, la clave va a ser un nombre que se le va a asignar a un conjunto o un solo valor. 
+
+Sintaxis de los Diccionarios
+{	“Uno”:	1,	“Dos”:	2,	“Tres”:	3	}
+	Clave	Valor	Clave	Valor	Clave	Valor	
+
