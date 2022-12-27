@@ -1,0 +1,3 @@
+• If: Es la forma de colocar un condicional en Python, significa “Si…”, pero de una condición. 
+• Else: Todo “If” debe llevar su Else, el cual significa “Si no…”, en el caso que no se cumpla la condición del If.
+• Elif: Se utiliza cuando se combinan varias opciones que el programa debe elegir. Es decir, permite anidar diferentes situaciones. 
