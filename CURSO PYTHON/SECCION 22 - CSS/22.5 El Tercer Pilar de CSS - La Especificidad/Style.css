@@ -1,0 +1,10 @@
+.clase{
+    color: lawngreen;
+}
+#identificador{
+    color: brown;
+}
+
+p{
+    color: rgb(8, 8, 8) !important;
+}
