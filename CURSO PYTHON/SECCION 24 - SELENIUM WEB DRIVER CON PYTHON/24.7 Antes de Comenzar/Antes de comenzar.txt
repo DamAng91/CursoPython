@@ -1,0 +1,5 @@
+	A medida que se avanza con el testing, hay que tener en cuenta ciertas cosas para evaluar la página web:
+- Aparece un Captcha para completar. 
+- Tener en cuenta lo aprendido en HTML.
+- Identificar las etiquetas y los atributos de HTML que utiliza la página web.
+- “Selecciona un elemento de la página para inspeccionarlo” desde el panel de “inspeccionar” en la página web.
