@@ -1,0 +1,20 @@
+Conceptos Importantes:
+Datos:
+Un dato es una de las cosas más básicas que utiliza un programa como una letra o un número. Por ejemplo: 5 o 49.99 que son datos numéricos. 
+Tipos de datos:
+• Enteros
+• Flotante
+• Cadena de texto
+
+Variable:
+	Una variable no es exclusiva de un lenguaje de programación. Una de las características más potentes de un lenguaje de programación es la capacidad de manipular variables. Una variable es un nombre que se refiere a un dato.
+Reglas de las variables:
+• No pueden iniciar con un número.
+• No pueden llevar caracteres especiales.
+• No pueden llevar el nombre de palabras reservadas del lenguaje. 
+
+Ejemplos de variables y tipos de datos:
+• Se desea almacenar, en una variable, la edad de un usuario que tiene 20 años
+edad = 20
+• Se quiere almacenar, en una variable, un mensaje de bienvenida
+mensaje = “Bienvenido”
