@@ -1,0 +1,11 @@
+	HTML por sus siglas significa HyperText Markup Languaje (Lenguaje de Marcado de Hipertexto), NO representa un lenguaje de programación dado que este no ocupa variables, en lugar de variables, va a tener viñetas. 
+	Un lenguaje de marcados usa etiquetas para identificar su contenido; esto es HTML; son viñetas que identifican el contenido de una página web. 
+
+Historia:
+	en 1989, Tim Burners Lee, logró ocupar el protocolo SPIP para enlazar documentos electrónicos entre dos dispositivos. También fue el creador de www (World Wide Web).
+
+Estructura Web:
+	 
+HTML = Estructura
+CSS = Presentación
+JavaScript = Comportamiento 
