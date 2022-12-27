@@ -1,0 +1,18 @@
+	CSS (Cascading Style Sheet) hojas de estilo en cascada. CSS es un lenguaje de hojas de estilos creado para controlar el aspecto o presentación de los documentos electrónicos definidos con HTML. Al igual que HTML, CSS NO es un lenguaje de programación dado que no utilizan variables. 
+
+Historia:
+	El organismo W3C (http://www.w3.org/) (World Wide Web Consortium), encargado de crear todos los estándares relacionados con la web, propuso la creación de un lenguaje de hojas de estilos específico para el lenguaje HTML. En 1996 se publica CSS. 
+
+Estructura:
+	Consta de 3 valores:
+p {color: red;}
+
+p = Selector. Es el elemento dentro de HTML al que se le va aplicar un estilo.
+color = Propiedad. Estilo que se le va aplicar al selector
+red = Valor de propiedad. Atributo que se aplica al selector.
+{color: red;} = Declaración
+
+Padres, hijos y hermanos:
+	Un hijo es una etiqueta que se encuentra dentro de otra, por ejemplo, un h1 que se encuentra dentro del body. 
+	Un hermano es una etiqueta que se encuentra “a la par” con otra etiqueta, siguiendo el ejemplo del hijo, si disponemos otra etiqueta, por ejemplo p, dentro del body, la etiqueta p será hermano de la etiqueta h1. 
+	Por defecto, un padre, es aquella etiqueta que engloba otras etiquetas, por ejemplo, el body es el padre de las etiquetas h1 y p. 
