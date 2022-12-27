@@ -1,0 +1,14 @@
+Es una herramienta para automatizar Testing. Precisamente, Selenium es una herramienta de código abierto que se utiliza para automatizar las pruebas realizadas en los navegadores web. Es una de las herramientas más utilizadas para hacer testing en las aplicaciones web. 
+
+Características:
+• Utilizado con múltiples lenguajes de programación.
+• Múltiplataforma. Es soportada por Windows, Linux, Mac, etc.
+• Ejecutable con todos los navegadores.
+• Implementa herramientas de documentación. 
+• Puede ser utilizado con Jenkins, Maven y Docker. 
+
+Limitaciones:
+• Sólo aplicable para aplicaciones web.
+• No posee soporte.
+• Para testear algunos campos es necesario utilizar extensiones.
+• No se instala de manera nativa. En este caso lo vamos a correr sobre un ID llamado PyCharm. 
