@@ -1,0 +1,23 @@
+
+Librería:
+	Conjunto de módulos cuya agrupación tiene una finalidad específica y que también puede ser invocada, tal como un módulo. Pero no es un módulo, si no un conjunto de ellos con una estructura determinada para lograr una finalidad. 
+
+Módulo:
+	Es una porción de un programa de ordenador. De las varias tareas que debe realizar un programa para cumplir con su función y objetivos, un módulo realizará, comúnmente, una de dichas tareas (o varias, en algún caso).
+Ejemplo: import math 
+
+Palabras claves:
+	Para trabajar con librerías o módulos es necesario tener en cuenta las siguientes palabras claves.
+• import
+• import math
+
+• from <módulo>import<función>
+• from math import sqrt
+• from math import*
+
+Módulo (Librería) Turtle:
+	Python Turtle Graphics es un módulo de programación gráfica para Python utilizado como método para enseñar programación a través de coordenadas relativas. El objeto a programar recibe el nombre tortuga, elemento clave en el lenguaje de programación Logo, creado por Seymour Papert a finales de la década de los 60. 
+
+ 
+
+
